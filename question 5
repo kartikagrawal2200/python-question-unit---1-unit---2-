@@ -1,0 +1,4 @@
+marks = float(input("Enter marks: "))
+max = float(input("Enter maximum marks: "))
+percentage = (marks / max) * 100
+print(f"Percentage: {percentage}%")
