@@ -1,0 +1,4 @@
+q= int(input())
+p = int(input())
+total_amount = q * p
+print(total_amount)
