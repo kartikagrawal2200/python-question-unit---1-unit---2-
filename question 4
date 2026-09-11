@@ -1,0 +1,4 @@
+budget, food, travel = map(int, input().split())
+remaining = budget - (food + travel)
+
+print(f"remaining: {remaining}")
